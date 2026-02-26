@@ -1,19 +1,17 @@
 # Online Retail Store — Database Systems Final Project
 
-This repository contains a **Database Systems final project** for an **Online Retail Store**.  
+This repository contains a **Database Systems project** for an **Online Retail Store**.  
 It includes the full database implementation (DDL + constraints), sample data inserts, and example SQL queries.
 
 ## Files in this repo
-- **`Projectt.sql`**  
+- **`Online-Retail Store SQL.sql`**  
   Main SQL script that includes:
   - Table creation (DDL) + primary/foreign keys + CHECK/UNIQUE constraints
   - Sample inserts (DML)
   - Example queries (SELECT)
 
-- **`Sql Database project.pdf.pdf`**  
+- **`Sql Database project.pdf`**  
   Project report (design + explanation + diagrams/output).
-
-> Tip (optional): you can rename the PDF to `Project_Report.pdf` later to look cleaner on GitHub.
 
 ---
 
@@ -49,11 +47,11 @@ This project uses **Oracle SQL syntax** (e.g., `VARCHAR2`, `NUMBER`, `TO_DATE`).
 - Create/open a connection (your schema/user).
 
 ### 2) Run the script
-- Open **`Projectt.sql`**
+- Open **`Online-Retail Store SQL.sql`**
 - Click **Run Script (F5)**
 
 ### 3) If you prefer to run step-by-step
-Inside `Projectt.sql`, you can run in this order:
+Inside `Online-Retail Store SQL.sql`, you can run in this order:
 1. **CREATE TABLE** statements
 2. **ALTER TABLE** statements (if any)
 3. **INSERT** statements
